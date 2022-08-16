@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="807px" height="84px" viewBox="0 0 807 84" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>spot</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="126.280272%" y1="-61.0075894%" x2="-12.5057691%" y2="133.477275%" id="linearGradient-1">
+            <stop stop-color="#712E98" offset="0%"></stop>
+            <stop stop-color="#52A7EA" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Tablet-Portrait" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="spot" fill="url(#linearGradient-1)">
+            <path d="M807,64.2842311 L807,0 L0,0 L1.70530257e-13,64.2842311 C134.5,77.2608153 269,83.7491074 403.5,83.7491074 C538,83.7491074 672.5,77.2608153 807,64.2842311 Z" id="Path-2"></path>
+        </g>
+    </g>
+</svg>

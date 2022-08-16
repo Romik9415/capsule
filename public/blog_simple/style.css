@@ -1,0 +1,59 @@
+*{
+    font-family: 'Roboto', sans-serif;
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+h1{
+    color: #585858;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    font-size: 20pt;
+    color: #6C98D9;
+}
+
+p{
+    color: #757575;
+    font-family: 'Raleway', sans-serif;
+     line-height: 1.6;
+    font-size: 14pt
+}
+
+.img-center{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+body {
+    background-color: #fff;
+    height: 100%;
+}
+.conteiner {
+    max-width: 700px;
+    margin:auto;
+    
+}
+.post{
+    padding: 16px;
+}
+.section{
+    background: url(header-spot_mobile.svg);
+    background-position: top center;
+    background-repeat: no-repeat;
+}
+
+.post>img{
+    width: 100%;
+}
+.post>p>img{
+    width: 100%;
+}
+a{
+    color: #6C98D9;
+    text-decoration: none;
+}
+a:hover{
+    color: #6C98D9;
+    text-decoration:underline;
+}

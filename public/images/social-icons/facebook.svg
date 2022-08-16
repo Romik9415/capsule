@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="11px" height="23px" viewBox="0 0 11 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="102.9457%" y1="9.92967549%" x2="0%" y2="107.62357%" id="linearGradient-1">
+            <stop stop-color="#712E98" offset="0%"></stop>
+            <stop stop-color="#52A7EA" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Desktop-HD" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-1178.000000, -3789.000000)" opacity="0.8">
+        <g id="footer" transform="translate(0.000000, 3360.000000)" fill="#FFFFFF">
+            <g id="social" transform="translate(1178.000000, 428.000000)">
+                <path d="M7.31470568,24 L2.43724175,24 L2.43724175,12.4985483 L0,12.4985483 L0,8.53553396 L2.43724175,8.53553396 L2.43724175,6.15627367 C2.43724175,2.92344105 3.81270744,1 7.72302378,1 L10.9776468,1 L10.9776468,4.96446604 L8.94350742,4.96446604 C7.42125584,4.96446604 7.32066653,5.5182719 7.32066653,6.55184928 L7.31396058,8.53553396 L11,8.53553396 L10.5685836,12.4985483 L7.31396058,12.4985483 L7.31396058,24 L7.31470568,24 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>
